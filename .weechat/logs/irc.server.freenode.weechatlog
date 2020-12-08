@@ -1,0 +1,322 @@
+2020-12-06 14:26:25	--	irc: connecting to server irc.freenode.net/6667...
+2020-12-06 14:26:25	--	irc: connected to irc.freenode.net/6667 (130.185.232.126)
+2020-12-06 14:26:25	--	hitchcock.freenode.net: *** Looking up your hostname...
+2020-12-06 14:26:25	--	hitchcock.freenode.net: *** Checking Ident
+2020-12-06 14:26:25	--	hitchcock.freenode.net: *** Found your hostname
+2020-12-06 14:26:31	--	hitchcock.freenode.net: *** No Ident response
+2020-12-06 14:26:31	--	Welcome to the freenode Internet Relay Chat Network buffy
+2020-12-06 14:26:31	--	Your host is hitchcock.freenode.net[130.185.232.126/6667], running version ircd-seven-1.1.9
+2020-12-06 14:26:31	--	This server was created Sun Jul 12 2020 at 20:48:04 UTC
+2020-12-06 14:26:31	--	hitchcock.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-12-06 14:26:31	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-12-06 14:26:31	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 WHOX MONITOR=100 SAFELIST :are supported by this server
+2020-12-06 14:26:31	--	ELIST=CTU ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+2020-12-06 14:26:31	--	There are 100 users and 75410 invisible on 31 servers
+2020-12-06 14:26:31	--	43 :IRC Operators online
+2020-12-06 14:26:31	--	72 :unknown connection(s)
+2020-12-06 14:26:31	--	42007 :channels formed
+2020-12-06 14:26:31	--	I have 3511 clients and 1 servers
+2020-12-06 14:26:31	--	3511 3847 :Current local users 3511, max 3847
+2020-12-06 14:26:31	--	75510 85481 :Current global users 75510, max 85481
+2020-12-06 14:26:31	--	Highest connection count: 3848 (3847 clients) (238425 connections received)
+2020-12-06 14:26:31	--	- hitchcock.freenode.net Message of the Day -
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+2020-12-06 14:26:31	--	- Elemental TV (www.elemental.tv)
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+2020-12-06 14:26:31	--	- England, Sir Alfred Hitchcock was a noted film director
+2020-12-06 14:26:31	--	- and producer. Over a long career he pioneered many modern
+2020-12-06 14:26:31	--	- techniques in film-making, made more than 50 feature films,
+2020-12-06 14:26:31	--	- and influenced many present-day directors and producers.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- Welcome to freenode - supporting the free and open source
+2020-12-06 14:26:31	--	- software communities since 1998.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- By connecting to freenode you indicate that you have read and
+2020-12-06 14:26:31	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- In the event that you observe behaviour that contravenes our policies,
+2020-12-06 14:26:31	--	- please notify a volunteer staff member via private message, or send us an
+2020-12-06 14:26:31	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-12-06 14:26:31	--	- situation within a reasonable period of time, and we may request further
+2020-12-06 14:26:31	--	- information or, as appropriate, involve other parties such as channel operators
+2020-12-06 14:26:31	--	- Group Contacts representing an on-topic group.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- freenode runs an open proxy scanner.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- If you are looking for assistance, you may be able to find a list of
+2020-12-06 14:26:31	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining
+2020-12-06 14:26:31	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-12-06 14:26:31	--	- any of us at any time. Please note that freenode predominantly provides
+2020-12-06 14:26:31	--	- assistance via private message, and while we have a network channel the
+2020-12-06 14:26:31	--	- primary venue for support requests is via private message to a member
+2020-12-06 14:26:31	--	- of the volunteer staff team.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-12-06 14:26:31	--	- the project, or the communities that we host. The majority of such notices
+2020-12-06 14:26:31	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-12-06 14:26:31	--	- do not miss them. Important messages relating to the freenode project, including
+2020-12-06 14:26:31	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-12-06 14:26:31	--	- global notices.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- Representing an on-topic project? Don't forget to register, more information
+2020-12-06 14:26:31	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-12-06 14:26:31	--	- network going for close to two decades.
+2020-12-06 14:26:31	--	-
+2020-12-06 14:26:31	--	- Thank you for using freenode!
+2020-12-06 14:26:31	--	End of /MOTD command.
+2020-12-06 14:26:31	--	User mode [+i] by buffy
+2020-12-06 14:26:37	--	You are now known as nativepapaya
+2020-12-06 14:26:37	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2020-12-06 14:26:47	--	MSG(NickServ): identify **********
+2020-12-06 14:26:47	--	NickServ (NickServ@services.): You are now identified for nativepapaya.
+2020-12-06 14:36:19	--	irc: disconnected from server
+2020-12-06 14:36:20	--	irc: connecting to server irc.freenode.net/6667...
+2020-12-06 14:36:20	--	irc: connected to irc.freenode.net/6667 (82.96.96.11)
+2020-12-06 14:36:21	--	kornbluth.freenode.net: *** Looking up your hostname...
+2020-12-06 14:36:21	--	kornbluth.freenode.net: *** Checking Ident
+2020-12-06 14:36:21	--	kornbluth.freenode.net: *** Found your hostname
+2020-12-06 14:36:26	--	kornbluth.freenode.net: *** No Ident response
+2020-12-06 14:36:26	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-12-06 14:36:26	--	irc: client capability, requesting: sasl
+2020-12-06 14:36:27	--	irc: client capability, enabled: sasl
+2020-12-06 14:36:27	--	You are now logged in as nativepapaya. (nativepapaya!nativepapa@c-73-10-14-85.hsd1.nj.comcast.net)
+2020-12-06 14:36:27	--	SASL authentication successful
+2020-12-06 14:36:27	--	Welcome to the freenode Internet Relay Chat Network nativepapaya
+2020-12-06 14:36:27	--	Your host is kornbluth.freenode.net[82.96.96.11/6667], running version ircd-seven-1.1.9
+2020-12-06 14:36:27	--	This server was created Mon Mar 16 2020 at 19:49:33 UTC
+2020-12-06 14:36:27	--	kornbluth.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-12-06 14:36:27	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-12-06 14:36:28	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+2020-12-06 14:36:28	--	CNOTICE KNOCK WHOX ETRACE MONITOR=100 :are supported by this server
+2020-12-06 14:36:28	--	There are 100 users and 75409 invisible on 31 servers
+2020-12-06 14:36:28	--	43 :IRC Operators online
+2020-12-06 14:36:28	--	29 :unknown connection(s)
+2020-12-06 14:36:28	--	42019 :channels formed
+2020-12-06 14:36:28	--	I have 3514 clients and 1 servers
+2020-12-06 14:36:28	--	3514 5175 :Current local users 3514, max 5175
+2020-12-06 14:36:28	--	75509 90930 :Current global users 75509, max 90930
+2020-12-06 14:36:28	--	Highest connection count: 5176 (5175 clients) (1244265 connections received)
+2020-12-06 14:36:28	--	- kornbluth.freenode.net Message of the Day -
+2020-12-06 14:36:28	--	- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU.
+2020-12-06 14:36:28	--	- Thanks to Probe Networks (www.probe-networks.de) for
+2020-12-06 14:36:28	--	- sponsoring this server!
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+2020-12-06 14:36:28	--	- an active member of the Futurians, Cyril Kornbluth sold his
+2020-12-06 14:36:28	--	- first story professionally at age 15.  By the 1940's his
+2020-12-06 14:36:28	--	- stories appeared widely under several pennames, including
+2020-12-06 14:36:28	--	- S.D. Gottesman and Cecil Corman.  He left his university
+2020-12-06 14:36:28	--	- studies in Chicago to serve in the Army in Europe during
+2020-12-06 14:36:28	--	- WWII, then returned to school and work in Chicago until he
+2020-12-06 14:36:28	--	- began writing full-time in 1951.  The author of The Marching
+2020-12-06 14:36:28	--	- Morons and the novels The Space Merchants (with Frederik
+2020-12-06 14:36:28	--	- Pohl) and The Syndic, he's best known for his biting social
+2020-12-06 14:36:28	--	- satire and his collaborations with Pohl and with Judith
+2020-12-06 14:36:28	--	- Merril.
+2020-12-06 14:36:28	--	- Welcome to freenode - supporting the free and open source
+2020-12-06 14:36:28	--	- software communities since 1998.
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- By connecting to freenode you indicate that you have read and
+2020-12-06 14:36:28	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- In the event that you observe behaviour that contravenes our policies,
+2020-12-06 14:36:28	--	- please notify a volunteer staff member via private message, or send us an
+2020-12-06 14:36:28	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-12-06 14:36:28	--	- situation within a reasonable period of time, and we may request further
+2020-12-06 14:36:28	--	- information or, as appropriate, involve other parties such as channel operators
+2020-12-06 14:36:28	--	- Group Contacts representing an on-topic group.
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- freenode runs an open proxy scanner.
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- If you are looking for assistance, you may be able to find a list of
+2020-12-06 14:36:28	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining
+2020-12-06 14:36:28	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-12-06 14:36:28	--	- any of us at any time. Please note that freenode predominantly provides
+2020-12-06 14:36:28	--	- assistance via private message, and while we have a network channel the
+2020-12-06 14:36:28	--	- primary venue for support requests is via private message to a member
+2020-12-06 14:36:28	--	- of the volunteer staff team.
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-12-06 14:36:28	--	- the project, or the communities that we host. The majority of such notices
+2020-12-06 14:36:28	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-12-06 14:36:28	--	- do not miss them. Important messages relating to the freenode project, including
+2020-12-06 14:36:28	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-12-06 14:36:28	--	- global notices.
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- Representing an on-topic project? Don't forget to register, more information
+2020-12-06 14:36:28	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-12-06 14:36:28	--	- network going for close to two decades.
+2020-12-06 14:36:28	--	-
+2020-12-06 14:36:28	--	- Thank you for using freenode!
+2020-12-06 14:36:28	--	End of /MOTD command.
+2020-12-06 14:36:28	--	User mode [+i] by nativepapaya
+2020-12-06 15:17:29	--	irc: disconnected from server
+2020-12-06 15:18:05	--	irc: connecting to server irc.freenode.net/6667...
+2020-12-06 15:18:05	--	irc: connected to irc.freenode.net/6667 (82.96.96.11)
+2020-12-06 15:18:05	--	kornbluth.freenode.net: *** Looking up your hostname...
+2020-12-06 15:18:05	--	kornbluth.freenode.net: *** Checking Ident
+2020-12-06 15:18:05	--	kornbluth.freenode.net: *** Found your hostname
+2020-12-06 15:18:13	--	kornbluth.freenode.net: *** No Ident response
+2020-12-06 15:18:13	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-12-06 15:18:13	--	irc: client capability, requesting: sasl
+2020-12-06 15:18:14	--	irc: client capability, enabled: sasl
+2020-12-06 15:18:14	--	You are now logged in as nativepapaya. (nativepapaya!nativepapa@c-73-10-14-85.hsd1.nj.comcast.net)
+2020-12-06 15:18:14	--	SASL authentication successful
+2020-12-06 15:18:14	--	Welcome to the freenode Internet Relay Chat Network nativepapaya
+2020-12-06 15:18:14	--	Your host is kornbluth.freenode.net[82.96.96.11/6667], running version ircd-seven-1.1.9
+2020-12-06 15:18:14	--	This server was created Mon Mar 16 2020 at 19:49:33 UTC
+2020-12-06 15:18:14	--	kornbluth.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-12-06 15:18:14	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-12-06 15:18:14	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+2020-12-06 15:18:14	--	CNOTICE KNOCK WHOX ETRACE MONITOR=100 :are supported by this server
+2020-12-06 15:18:15	--	There are 102 users and 75341 invisible on 31 servers
+2020-12-06 15:18:15	--	43 :IRC Operators online
+2020-12-06 15:18:15	--	40 :unknown connection(s)
+2020-12-06 15:18:15	--	42015 :channels formed
+2020-12-06 15:18:15	--	I have 3526 clients and 1 servers
+2020-12-06 15:18:15	--	3526 5175 :Current local users 3526, max 5175
+2020-12-06 15:18:15	--	75443 90930 :Current global users 75443, max 90930
+2020-12-06 15:18:15	--	Highest connection count: 5176 (5175 clients) (1244539 connections received)
+2020-12-06 15:18:15	--	- kornbluth.freenode.net Message of the Day -
+2020-12-06 15:18:15	--	- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU.
+2020-12-06 15:18:15	--	- Thanks to Probe Networks (www.probe-networks.de) for
+2020-12-06 15:18:15	--	- sponsoring this server!
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+2020-12-06 15:18:15	--	- an active member of the Futurians, Cyril Kornbluth sold his
+2020-12-06 15:18:15	--	- first story professionally at age 15.  By the 1940's his
+2020-12-06 15:18:15	--	- stories appeared widely under several pennames, including
+2020-12-06 15:18:15	--	- S.D. Gottesman and Cecil Corman.  He left his university
+2020-12-06 15:18:15	--	- studies in Chicago to serve in the Army in Europe during
+2020-12-06 15:18:15	--	- WWII, then returned to school and work in Chicago until he
+2020-12-06 15:18:15	--	- began writing full-time in 1951.  The author of The Marching
+2020-12-06 15:18:15	--	- Morons and the novels The Space Merchants (with Frederik
+2020-12-06 15:18:15	--	- Pohl) and The Syndic, he's best known for his biting social
+2020-12-06 15:18:15	--	- satire and his collaborations with Pohl and with Judith
+2020-12-06 15:18:15	--	- Merril.
+2020-12-06 15:18:15	--	- Welcome to freenode - supporting the free and open source
+2020-12-06 15:18:15	--	- software communities since 1998.
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- By connecting to freenode you indicate that you have read and
+2020-12-06 15:18:15	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- In the event that you observe behaviour that contravenes our policies,
+2020-12-06 15:18:15	--	- please notify a volunteer staff member via private message, or send us an
+2020-12-06 15:18:15	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-12-06 15:18:15	--	- situation within a reasonable period of time, and we may request further
+2020-12-06 15:18:15	--	- information or, as appropriate, involve other parties such as channel operators
+2020-12-06 15:18:15	--	- Group Contacts representing an on-topic group.
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- freenode runs an open proxy scanner.
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- If you are looking for assistance, you may be able to find a list of
+2020-12-06 15:18:15	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining
+2020-12-06 15:18:15	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-12-06 15:18:15	--	- any of us at any time. Please note that freenode predominantly provides
+2020-12-06 15:18:15	--	- assistance via private message, and while we have a network channel the
+2020-12-06 15:18:15	--	- primary venue for support requests is via private message to a member
+2020-12-06 15:18:15	--	- of the volunteer staff team.
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-12-06 15:18:15	--	- the project, or the communities that we host. The majority of such notices
+2020-12-06 15:18:15	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-12-06 15:18:15	--	- do not miss them. Important messages relating to the freenode project, including
+2020-12-06 15:18:15	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-12-06 15:18:15	--	- global notices.
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- Representing an on-topic project? Don't forget to register, more information
+2020-12-06 15:18:15	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-12-06 15:18:15	--	- network going for close to two decades.
+2020-12-06 15:18:15	--	-
+2020-12-06 15:18:15	--	- Thank you for using freenode!
+2020-12-06 15:18:15	--	End of /MOTD command.
+2020-12-06 15:18:15	--	User mode [+i] by nativepapaya
+2020-12-06 15:40:00	--	irc: disconnected from server
+2020-12-06 18:37:06	--	irc: connecting to server irc.freenode.net/6667...
+2020-12-06 18:37:06	--	irc: connected to irc.freenode.net/6667 (162.213.39.42)
+2020-12-06 18:37:07	--	weber.freenode.net: *** Looking up your hostname...
+2020-12-06 18:37:07	--	weber.freenode.net: *** Checking Ident
+2020-12-06 18:37:07	--	weber.freenode.net: *** Found your hostname
+2020-12-06 18:37:15	--	weber.freenode.net: *** No Ident response
+2020-12-06 18:37:15	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-12-06 18:37:15	--	irc: client capability, requesting: sasl
+2020-12-06 18:37:16	--	irc: client capability, enabled: sasl
+2020-12-06 18:37:16	--	You are now logged in as nativepapaya. (nativepapaya!nativepapa@c-73-10-14-85.hsd1.nj.comcast.net)
+2020-12-06 18:37:16	--	SASL authentication successful
+2020-12-06 18:37:17	--	Welcome to the freenode Internet Relay Chat Network nativepapaya
+2020-12-06 18:37:17	--	Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.9
+2020-12-06 18:37:17	--	This server was created Wed Dec 18 2019 at 21:37:52 UTC
+2020-12-06 18:37:17	--	weber.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-12-06 18:37:17	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-12-06 18:37:17	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2020-12-06 18:37:17	--	CPRIVMSG CNOTICE WHOX ETRACE MONITOR=100 :are supported by this server
+2020-12-06 18:37:17	--	There are 100 users and 74430 invisible on 31 servers
+2020-12-06 18:37:17	--	43 :IRC Operators online
+2020-12-06 18:37:17	--	28 :unknown connection(s)
+2020-12-06 18:37:17	--	41898 :channels formed
+2020-12-06 18:37:17	--	I have 3466 clients and 1 servers
+2020-12-06 18:37:17	--	3466 7419 :Current local users 3466, max 7419
+2020-12-06 18:37:17	--	74530 90930 :Current global users 74530, max 90930
+2020-12-06 18:37:17	--	Highest connection count: 7420 (7419 clients) (2741740 connections received)
+2020-12-06 18:37:17	--	- weber.freenode.net Message of the Day -
+2020-12-06 18:37:17	--	- Welcome to weber.freenode.net in California, USA.
+2020-12-06 18:37:17	--	- Thanks to https://www.cloudsigma.com/ for sponsoring
+2020-12-06 18:37:17	--	- this server!
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- WEBER, DAVID M. (1952-), an American fantasy and scifi
+2020-12-06 18:37:17	--	- author. Best known for his 'Honor Harrington' series, his
+2020-12-06 18:37:17	--	- works span several genres, including alternate history,
+2020-12-06 18:37:17	--	- epic fantasy, military scifi and space opera. He's also
+2020-12-06 18:37:17	--	- done wargame design mainly for the StarFire tabletop
+2020-12-06 18:37:17	--	- boardgame series, a job which later evolved into the novel,
+2020-12-06 18:37:17	--	- 'Insurrection' (collaboration with Steve White, published
+2020-12-06 18:37:17	--	- in 1990).
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- Welcome to freenode - supporting the free and open source
+2020-12-06 18:37:17	--	- software communities since 1998.
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- By connecting to freenode you indicate that you have read and
+2020-12-06 18:37:17	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- In the event that you observe behaviour that contravenes our policies,
+2020-12-06 18:37:17	--	- please notify a volunteer staff member via private message, or send us an
+2020-12-06 18:37:17	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-12-06 18:37:17	--	- situation within a reasonable period of time, and we may request further
+2020-12-06 18:37:17	--	- information or, as appropriate, involve other parties such as channel operators
+2020-12-06 18:37:17	--	- Group Contacts representing an on-topic group.
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- freenode runs an open proxy scanner.
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- If you are looking for assistance, you may be able to find a list of
+2020-12-06 18:37:17	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining
+2020-12-06 18:37:17	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-12-06 18:37:17	--	- any of us at any time. Please note that freenode predominantly provides
+2020-12-06 18:37:17	--	- assistance via private message, and while we have a network channel the
+2020-12-06 18:37:17	--	- primary venue for support requests is via private message to a member
+2020-12-06 18:37:17	--	- of the volunteer staff team.
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-12-06 18:37:17	--	- the project, or the communities that we host. The majority of such notices
+2020-12-06 18:37:17	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-12-06 18:37:17	--	- do not miss them. Important messages relating to the freenode project, including
+2020-12-06 18:37:17	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-12-06 18:37:17	--	- global notices.
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- Representing an on-topic project? Don't forget to register, more information
+2020-12-06 18:37:17	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-12-06 18:37:17	--	- network going for close to two decades.
+2020-12-06 18:37:17	--	-
+2020-12-06 18:37:17	--	- Thank you for using freenode!
+2020-12-06 18:37:17	--	End of /MOTD command.
+2020-12-06 18:37:17	--	User mode [+i] by nativepapaya
+2020-12-06 19:08:10	--	irc: disconnected from server
