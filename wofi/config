@@ -1,0 +1,11 @@
+show=drun
+location=top_left
+width=300
+height=300
+allow_images=true
+allow_markup=true
+term=kitty
+#x=-10
+#y=10
+image_size=20
+prompt=Void
