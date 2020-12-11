@@ -2,5 +2,4 @@
     "autosu": true,
     "colorscheme": "cmc-16",
     "mkparents": true,
-    "sucmd": "doas"
 }
