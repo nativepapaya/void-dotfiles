@@ -1,4 +1,6 @@
 {
+    "autosu": true,
     "colorscheme": "cmc-16",
-    "mkparents": true
+    "mkparents": true,
+    "sucmd": "doas"
 }

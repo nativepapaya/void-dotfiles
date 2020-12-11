@@ -2,7 +2,7 @@
 	border: none;
 	font-size: 13px;
 	margin: 2px;
-	font-family: FiraCode Nerd Font;
+	font-family: RobotoMono Nerd Font;
 }
 window#waybar {
 	background-color: #353b49;
@@ -50,7 +50,7 @@ window#waybar.empty {
 	color:  #BF616A;
 }
 #tags button {
-	font-family: FiraCode Nerd Font;
+	font-family: RobotoMono Nerd Font;
   font-weight: 600;
 }
 #mpd {

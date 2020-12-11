@@ -2,7 +2,7 @@
 	border: none;
 	font-size: 13px;
 	margin: 2px;
-	font-family: FiraCode Nerd Font;
+	font-family: RobotoMono Nerd Font;
 }
 window#waybar {
 	background-color: transparent;
@@ -24,6 +24,8 @@ window#waybar {
 #window {
 	color: #d8dee9;
 	margin: 0px;
+	font-family: RobotoMono Nerd Font Bold;
+	color: #81a1c1;
 	font-size: 14px;
 	border-radius: 10px;
 	padding: 0px 6px 0px 6px;
@@ -50,7 +52,7 @@ window#waybar.empty {
 	color:  #BF616A;
 }
 #tags button {
-	font-family: FiraCode Nerd Font;
+	font-family: RobotoMono Nerd Font;
   font-weight: 600;
 }
 #mpd {
@@ -82,37 +84,7 @@ window#waybar.empty {
 	box-shadow: inherit;
 	background-color: rgba(35,39,49,0.4);
 }
-/* BROWSER BOOKMARKS */
-#custom-newtab, #custom-name, #custom-github,#custom-reddit,#custom-crunchyroll,#custom-youtube,#custom-mail, #custom-library {
-	background-color: transparent;
-	font-size: 14px;
-	padding: 0px 10px 0px 10px ;
-}
-#custom-newtab {
-	color: #bf616a;
-	font-size: 18px;
-}
-#custom-github {
-	color: #d08770;
-}
-#custom-reddit {
-	color: #ebcb8b;
-}
-#custom-library {
-	color: #c57078;
-}
-#custom-crunchyroll {
-	font-size: 13px;
-	color: #a3be8c;
-}
-#custom-youtube {
-	font-size: 13px;
-	color: #b48ead;
-}
-#custom-mail {
-	color: #88c0d0;
-  font-size: 17px;
-}
+
 /* WIDGETS */
 #cpu, #idle_inhibitor, #custom-pacman, #memory, #backlight, #disk, #network, #pulseaudio, #custom-weather, #temperature {
   font-size: 14px;
@@ -139,27 +111,6 @@ window#waybar.empty {
 }
 #custom-weather {
 	padding: 0px 8px 0px 8px;
-}
-#custom-media {
-	color: #818896;
-	border-radius: 10px;
-	margin-left: 5px;
-}
-#custom-media.Playing {
-	color: #81a1c1;
-	border-radius: 0px;
-	font-weight: 500;
-}
-#custom-media.Music {
-	color: #b48ead;
-	border-radius: 0px;
-	font-weight: 500;
-}
-#custom-pacman {
-	color: #ebcb8b;
-	border-radius: 0px 10px 10px 0px;
-	font-weight: 600;
-	margin-right: 5px;
 }
 #pulseaudio {
 	color: #8fbcbb;
@@ -235,3 +186,58 @@ label:focus {
 	background-color: #51a37a;
 }
 
+/* BROWSER BOOKMARKS */
+/*
+#custom-newtab, #custom-name, #custom-github,#custom-reddit,#custom-crunchyroll,#custom-youtube,#custom-mail, #custom-library {
+	background-color: transparent;
+	font-size: 14px;
+	padding: 0px 10px 0px 10px ;
+}
+#custom-newtab {
+	color: #bf616a;
+	font-size: 18px;
+}
+#custom-github {
+	color: #d08770;
+}
+#custom-reddit {
+	color: #ebcb8b;
+}
+#custom-library {
+	color: #c57078;
+}
+#custom-crunchyroll {
+	font-size: 13px;
+	color: #a3be8c;
+}
+#custom-youtube {
+	font-size: 13px;
+	color: #b48ead;
+}
+#custom-mail {
+	color: #88c0d0;
+  font-size: 17px;
+}
+
+#custom-media {
+	color: #818896;
+	border-radius: 10px;
+	margin-left: 5px;
+}
+#custom-media.Playing {
+	color: #81a1c1;
+	border-radius: 0px;
+	font-weight: 500;
+}
+#custom-media.Music {
+	color: #b48ead;
+	border-radius: 0px;
+	font-weight: 500;
+}
+#custom-pacman {
+	color: #ebcb8b;
+	border-radius: 0px 10px 10px 0px;
+	font-weight: 600;
+	margin-right: 5px;
+}
+*/

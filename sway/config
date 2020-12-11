@@ -6,9 +6,7 @@
 	# Your preferred application launcher
 	set $menu wofi -c ~/.config/wofi/config -s ~/.config/wofi/style.css
 	
-	#exec dbus-daemon --session --address=unix:path=$XDG_RUNTIME_DIR/bus
 	exec $HOME/.local/bin/autotiling
-	#exec mako
 	#exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 	exec fcitx
 
@@ -40,31 +38,13 @@
 	default_border pixel 0
 	default_floating_border pixel 0
 
-	# Titlebar font
-	font FiraCode Nerd Font Bold 10
-	
 	# Titlebar settings
 	#titlebar_border_thickness 0
 	#titlebar_padding 10 1
-	
-	### Nord (https://www.nordtheme.com/)
-	set $light #eceff4
-	set $dark #2e3440
-	set $focusedborder #eceff4
-	set $inactiveborder #88c0d0
-	set $unfocusedborder #5e81ac
-	set $urgentborder #a3be8c
-	
-	### Gruvbox
-	#set $light #ebdbb2
-	#set $dark #3c3836
-	#set $focusedborder #ebdbb2
-	#set $inactiveborder #8ec07c
-	#set $unfocusedborder #689d6a
-	#set $urgentborder #b8bb26
 
 	# font
-	font pango:FiraCode Nerd Font Medium
+	#font pango:FiraCode Nerd Font Medium
+	font pango:RobotoMono Nerd Font
 
 	#themes
 
@@ -73,10 +53,8 @@
 	exec_always {
 	    gsettings set $gnome-schema gtk-theme 'Nordic'
 	    gsettings set $gnome-schema icon-theme 'Papirus-Dark'
-	    #gsettings set $gnome-schema cursor-theme 'Vanilla-DMZ'
-	    gsettings set $gnome-schema font-name 'FiraCode Nerd Font 10'
-	    gsettings set $gnome-schema monospace-font-name 'FiraCode Nerd Font Mono 10'
-	    gsettings set $gnome-schema document-font-name 'FiraCode Nerd Font Mono 10'
+	    gsettings set $gnome-schema cursor-theme 'oxy-neon'
+	    gsettings set $gnome-schema font-name 'RobotoMono Nerd Font 10'
 	}
 
 
@@ -155,10 +133,10 @@
     bindsym $mod+q exec $powermenu
 
     # Take Screenshot of the whole screen
-    bindsym Print exec grimshot save
+    bindsym Print exec grimshot --notify save
 
     # Take Screenshot of a specific window
-    bindsym Shift+Print exec grimshot save active
+    bindsym Shift+Print exec grimshot --notify save active
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -295,5 +273,3 @@ bar
 {
 	swaybar_command waybar
 }
-
-#include /etc/sway/config.d/*
