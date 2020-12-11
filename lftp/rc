@@ -1,0 +1,4 @@
+set ssl:verify-certificate no
+set mirror:use-pget-n 5
+set pget:default-n 10
+set sftp:connect-program "ssh -x -i ~/.ssh/id_rsa"
