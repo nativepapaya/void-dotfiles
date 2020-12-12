@@ -43,8 +43,7 @@
 	#titlebar_padding 10 1
 
 	# font
-	#font pango:FiraCode Nerd Font Medium
-	font pango:RobotoMono Nerd Font
+	font pango:FiraCode Nerd Font Medium
 
 	#themes
 
@@ -54,7 +53,7 @@
 	    gsettings set $gnome-schema gtk-theme 'Nordic'
 	    gsettings set $gnome-schema icon-theme 'Papirus-Dark'
 	    gsettings set $gnome-schema cursor-theme 'oxy-neon'
-	    gsettings set $gnome-schema font-name 'RobotoMono Nerd Font 10'
+	    gsettings set $gnome-schema font-name 'FiraCode Nerd Font 10'
 	}
 
 
